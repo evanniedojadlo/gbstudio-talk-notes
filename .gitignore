@@ -1,0 +1,22 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS system folders
+__MACOSX/
+
+# GBStudio backup files
+*.gbsproj.bak
+
+# GBStudio temporary build files
+build/
+dist/
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor/IDE files
+.idea/
