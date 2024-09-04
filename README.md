@@ -12,6 +12,10 @@ I'm sharing the template here for anyone who wants to do something similar, whet
 * Navigate to the appropriate directory and select `cloud-austin-lightning-talk.gbsproj`
 * The project should load, and you will be able to navigate around the GBStudio UI to make edits
 
+### Steps to get your game on a device
+
+* I personally used an [Analogue Pocket](https://www.analogue.co/pocket) device. You can load your game on a microSD using [pocket-sync](https://github.com/neil-morrison44/pocket-sync) or you can get extra fancy and add this to a cartridge. 
+* More information on adding your finished game to a cartridge can be found here: https://gbstudiocentral.com/tips/getting-your-gb-studio-games-on-real-hardware/
 
 ### I used the following tools and resources:
 
